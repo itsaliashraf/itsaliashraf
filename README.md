@@ -127,17 +127,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Impact & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsaliashraf&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsaliashraf&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaliashraf&theme=tokyonight" />
-</p>
+| 🚀 Metric | 📈 Result |
+|---|---|
+| API Response Time | ⬇️ Improved by **40%** |
+| Page Load Time | ⬇️ Reduced by **25%** |
+| Student Response Rate | ⬆️ **19% → 65%** (Towson University) |
+| AI-Led Interactions | 💬 **12,000+** with minimal staff |
+| Enrollment Lift | 🎓 **+4%** via AI campaigns |
+| Dev Cycle Speed | ⚡ Accelerated by **30%** |
+| User Engagement | 📊 Increased by **15%** |
+| BIM Manual Effort | ⬇️ Reduced by **18–25%** |
 
 ---
 
